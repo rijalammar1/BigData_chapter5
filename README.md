@@ -38,3 +38,18 @@
      - transform: Menerapkan transformasi pada DStream.
      - rdd.sortByKey(False): Mengurutkan pasangan kunci-nilai dalam RDD berdasarkan kunci secara menurun (descending order).
   ```
+  
+## Hasil
+1. Praktik Dasar Spark Streaming (stateless)
+<img src="https://github.com/rijalammar1/Chapter5_BIGDATA/assets/75898886/4c8af5dc-4369-4313-bc4a-4d7a7ef81b4d"><br><br>
+<img src="https://github.com/rijalammar1/Chapter5_BIGDATA/assets/75898886/ce74cb46-f21b-40a1-86c8-291e8905f535"><br><br>
+<img src="https://github.com/rijalammar1/Chapter5_BIGDATA/assets/75898886/75989202-1719-4696-82c9-fc7b520790a8"><br><br>
+
+2. Praktik Dasar Spark Streaming (stateful)	
+<img src="https://github.com/rijalammar1/Chapter5_BIGDATA/assets/75898886/757b5d86-8cf2-4704-b824-3131ee9b136b"><br><br>
+<img src="https://github.com/rijalammar1/Chapter5_BIGDATA/assets/75898886/e9f83482-648a-43ea-9510-f38cff6bcfb5"><br><br>
+
+3. Melakukan Transformasi di Spark Streaming (transformasi word sentiment)	
+<img src="https://github.com/rijalammar1/Chapter5_BIGDATA/assets/75898886/7d41a57a-6779-4e0e-80b7-3596c846d248"><br><br>
+<img src="https://github.com/rijalammar1/Chapter5_BIGDATA/assets/75898886/6e414f88-284d-4f29-a9a2-99537cec8b93"><br><br>
+<img src="https://github.com/rijalammar1/Chapter5_BIGDATA/assets/75898886/63fadbc2-5d9b-4871-9df5-2b32580dee2a"><br><br>
